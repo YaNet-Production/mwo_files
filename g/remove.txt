@@ -1,0 +1,8 @@
+scripts\MW_Online.dll
+ru\MW-Online Launcher.resources.dll
+en\MW-Online Launcher.resources.dll
+az\MW-Online Launcher.resources.dll
+MW-Online Launcher.exe
+NFSScript.dll
+NFSScript.xml
+NFSScriptLoader.exe
